@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RealmNexus/RealmNexus.csproj" />
+  <Project Path="TrProtocol/src/TrProtocol.SerializerGenerator/TrProtocol.SerializerGenerator.csproj" />
+  <Project Path="TrProtocol/src/TrProtocol/TrProtocol.csproj" />
+</Solution>
